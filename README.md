@@ -1,7 +1,7 @@
 # WordPress Editables
 Editables are small editable areas that make up the areas of your layout. 
 
-## Usuage
+## Usage
 After having created your editable you can access it via the following functions:
 
     // Prints the main content of an editable

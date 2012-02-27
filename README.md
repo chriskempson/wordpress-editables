@@ -1,5 +1,7 @@
 # WordPress Editables
-Editables are small editable areas that make up the areas of your layout. 
+Editables are small editable areas that make up the areas of your layout.
+
+![Menu](https://img.skitch.com/20120227-fk1g4f5fqmqmtnsgwu6fxis2b3.png)
 
 ## Usage
 After having created your editable you can access it via the following functions:

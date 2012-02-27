@@ -1,0 +1,6 @@
+#menu-posts-editable .wp-menu-image {
+    background: url('img/editables.png') no-repeat 6px -17px !important;
+}
+#menu-posts-editable:hover .wp-menu-image, #menu-posts-editable.wp-has-current-submenu .wp-menu-image {
+    background-position:6px 7px!important;
+}

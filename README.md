@@ -20,4 +20,5 @@ After having created your editable you can access it via the following functions
 
 ## Todo
 * Optional "edit link" to be displayed alongside editable content
-* Add support for categorised editables
+* Give editables the option to be categorised 
+* Widget that can output the content of an editable
